@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621481179 source:c:\users\user\documents\projetosc\agenciacarro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
